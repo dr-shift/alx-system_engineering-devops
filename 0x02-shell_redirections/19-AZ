@@ -1,2 +1,2 @@
 #!/bin/bash
-output=$(echo "$input" | tr 'ac' 'ze')
+tr "A" "Z" | tr "c" "e"
